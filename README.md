@@ -1,2 +1,2 @@
 # TechLove-Blog
- Comeplete Responsive website made using html css and javascript 
+ Complete Responsive website made using html css and javascript 
